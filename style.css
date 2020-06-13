@@ -1,5 +1,6 @@
 body {
-  background: url("paper-texture-with-pattern_107441-37.jpg") blue; 
+ background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+ background-size: cover
 }
 
 
