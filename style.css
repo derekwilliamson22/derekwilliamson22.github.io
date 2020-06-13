@@ -1,8 +1,9 @@
 body {
   background-image: url("paper-texture-with-pattern_107441-37.jpg");
+  background-size: cover;
 }
 
 
 p {
-  color: black;
+  color: #000000;
 }
