@@ -10,7 +10,14 @@ body {
   margin: 0 auto;
 }
 
+#content div{
+ background: #3bbced;
+ padding: 30px
+}
 
+#content div:nth-child (even){
+ background: #777; 
+}
 
 p {
   color: #000000;
