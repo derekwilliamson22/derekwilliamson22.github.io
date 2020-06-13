@@ -1,8 +1,8 @@
 body {
-  background: url(paper-texture-with-pattern_107441-37.jpg) blue; 
+  background: url("paper-texture-with-pattern_107441-37.jpg") blue; 
 }
 
 
 p {
-  color:  black;
+  color: black;
 }
