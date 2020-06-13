@@ -1,14 +1,7 @@
 body {
   background-image: url("paper-texture-with-pattern_107441-37.jpg");
-  text-align: center;
+  text-align: left;
 }
-
- .vertical-line{
-        display: inline-block;
-        border-left: 1px solid #ccc;
-        margin: 0 10px;
-        height: 125px;
-    }
 
 #container {
   display: grid;
