@@ -3,6 +3,12 @@ body {
   text-align: left;
 }
 
+#content {
+  display: grid;
+  grid-template-columns: 55% 45%;
+  max-width: 900px;
+  margin: 0 auto;
+}
 
 
 
