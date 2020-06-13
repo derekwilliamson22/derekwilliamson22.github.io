@@ -3,6 +3,13 @@ body {
   text-align: center;
 }
 
+ .vertical-line{
+        display: inline-block;
+        border-left: 1px solid #ccc;
+        margin: 0 10px;
+        height: 125px;
+    }
+
 #container {
   display: grid;
   grid-template-columns: 55% 45%;
