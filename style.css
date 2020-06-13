@@ -6,6 +6,7 @@ body {
 #content {
   display: grid;
   grid-template-columns: 55% 45%;
+  grid-auto-rows: minmax(250px, auto);
   max-width: 960px;
   margin: 0 auto;
 }
