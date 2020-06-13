@@ -6,17 +6,13 @@ body {
 #content {
   display: grid;
   grid-template-columns: 55% 45%;
-  max-width: 900px;
+  max-width: 960px;
   margin: 0 auto;
 }
 
 #content div{
  background: #3bbced;
  padding: 30px
-}
-
-#content div:nth-child (even){
- background: #777; 
 }
 
 p {
