@@ -40,11 +40,11 @@ body {
   border-bottom-color: rgb(153, 153, 153);
 }
 
-#work {
-  border-right: 2px solid #999;
-  border-right-width: 2px;
-  border-right-style: solid;
-  border-right-color: rgb(153, 153, 153);
+#extras {
+  border-left: 2px solid #999;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-left-color: rgb(153, 153, 153);
 }
 
 
