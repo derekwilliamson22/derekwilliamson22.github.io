@@ -17,6 +17,10 @@ body {
   
 }
 
+div {
+  display: block;
+}
+
 #container {
   display: grid;
   grid-template-columns: 55% 45%;
