@@ -24,25 +24,15 @@ body {
 
 #intro {
   border-bottom: 2px solid #000000;
-
 }
 
 #contact {
-  border-left: 2px solid #999;
-  border-left-width: 2px;
-  border-left-style: solid;
-  border-left-color: rgb(153, 153, 153);
-  border-bottom: 2px solid #999;
-  border-bottom-width: 2px;
-  border-bottom-style: solid;
-  border-bottom-color: rgb(153, 153, 153);
-}
+  border-left: 2px solid #000000;
+  border-bottom: 2px solid #000000;
+ }
 
 #extras {
-  border-left: 2px solid #999;
-  border-left-width: 2px;
-  border-left-style: solid;
-  border-left-color: rgb(153, 153, 153);
+  border-left: 2px solid #000000;
 }
 
 
