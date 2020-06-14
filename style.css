@@ -6,6 +6,10 @@ body {
   text-align: left;
 }
 
+h1 {
+  font-size: 28px;
+}
+
 #container {
   display: grid;
   grid-template-columns: 55% 45%;
