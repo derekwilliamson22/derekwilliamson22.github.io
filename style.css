@@ -2,16 +2,6 @@ body {
   display: block;
   margin: 0;
   background: url("paper-texture-with-pattern_107441-37.jpg");
-    background-image: url("paper-texture-with-pattern_107441-37.jpg");
-    background-position-x: initial;
-    background-position-y: initial;
-    background-size: initial;
-    background-repeat-x: initial;
-    background-repeat-y: initial;
-    background-attachment: initial;
-    background-origin: initial;
-    background-clip: initial;
-    background-color: initial;
   font: 16px "Arial", sans-serif;
   text-align: left;
 }
