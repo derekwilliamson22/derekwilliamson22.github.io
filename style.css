@@ -26,15 +26,13 @@ body {
   margin-right: auto;
   margin-bottom: 60px;
   margin-left: auto;
+  border-right: 1px solid #999;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: rgb(153, 153, 153);
 }
 
 #container div{
  padding: 30px
 }
 
-.work {
-  border-right: 1px solid #999;
-  border-right-width: 1px;
-  border-right-style: solid;
-  border-right-color: rgb(153, 153, 153);
-}
