@@ -14,8 +14,8 @@ body {
     background-color: initial;
   font: 16px "Arial", sans-serif;
   text-align: left;
-  
 }
+
 #container {
   display: grid;
   grid-template-columns: 55% 45%;
