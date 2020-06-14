@@ -16,17 +16,38 @@ body {
   margin-right: auto;
   margin-bottom: 60px;
   margin-left: auto;
-  border-top: 2px solid #999;
-  border-top-width: 2px;
-  border-top-style: solid;
-  border-top-color: rgb(153, 153, 153);
+ }
+
+#container div{
+ padding: 30px
+}
+
+#info {
+  border-bottom: 2px solid #999;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(153, 153, 153);
+}
+
+#contact {
+  border-left: 2px solid #999;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-left-color: rgb(153, 153, 153);
+  border-bottom: 2px solid #999;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(153, 153, 153);
+
+#work {
   border-right: 2px solid #999;
   border-right-width: 2px;
   border-right-style: solid;
   border-right-color: rgb(153, 153, 153);
 }
 
-#container div{
- padding: 30px
-}
+
+
+
+
 
