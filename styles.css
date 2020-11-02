@@ -45,9 +45,9 @@ nav ul li a {
   color: white;
   text-decoration: none;
 }
-nav ul li a.current {
+/* nav ul li a.current {
   background: black;
-}
+} */
 main {
   padding-bottom: 40rem;
 }
