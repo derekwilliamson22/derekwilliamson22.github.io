@@ -10507,6 +10507,7 @@ https://davidwalsh.name/responsive-iframes
   position: relative;
   overflow: hidden;
   padding-top: 56.25%;
+  margin-bottom: 32px;
 }
 
 .iframe-container iframe {
